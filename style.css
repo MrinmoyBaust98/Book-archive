@@ -1,0 +1,9 @@
+.design{
+    background-color: azure;
+    border: 2px solid rgb(104, 93, 93);
+    border-radius: 10px;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 4;
+}
